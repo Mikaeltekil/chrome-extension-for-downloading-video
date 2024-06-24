@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your/repository.git
+git clone https://github.com/Mikaeltekil/chrome-extension-for-downloading-video.git)
 Load the Extension:
 
 Open Google Chrome.
